@@ -1,0 +1,662 @@
+0;1;2;9;06/02/2018;10:25:49;Winner;11.5a10  (Feb  5 2018)
+100;;;;;;;;;;;;
+101;Olympic Kitchens;;20 Prince William Road\rLoughborough;LE11 5TB;Leicestershire;01509 611677;;;01531 800340;jamesb@compusoft.uk.com;;;;;;;;;;Olympic Kitchens;;;;UK;The United Kingdom;;;;;www.compusoftgroup.com
+102;Olympic Kitchens;;20 Prince William Road\rLoughborough;LE11 5TB;Leicestershire;01509 611677;;;01531 800340;jamesb@compusoft.uk.com;;;;;;;;;;Olympic Kitchens;;;;UK;The United Kingdom;;;;;www.compusoftgroup.com
+200;50;Support Plan;02/06/2017;06/02/2018;;;;;;;;;;;;;;0;;;;;
+210;40;;;;;
+211;White Modern Kitchen;;;;;;;;;;;;;;;;;;;White Modern Kitchen;;;;;;;;;;
+212;White Modern Kitchen;;;;;;;;;;;;;;;;;;;White Modern Kitchen;;;;;;;;;;
+213;White Modern Kitchen;;;;;;;;;;;;;;;;;;;White Modern Kitchen;;;;;;;;;;
+220;;;;;;;;;;;;;;;;;;;-;;;;;;;;;;;
+221;;;;;;;;;;;;;;;;;;;-;;;;;;;;;;;
+300;50/1/3;;Kitchen/ASCII;;;;;;;;0;;1
+301;20.00;5.00;0.00;0.00;0.00;GBP;1;1;1;-1;British Pounds;0.63;£;0;2;0;0;0;0
+302;2325.60;1938.00;1938.00;0.00;0.00;0.00;387.60;0.00;0.00;0.00;0.00;0.00;0.0;0.00;0.00;0.00;2325.60;0.00;0.00;0.00;0.00
+303;;;;;;;;;;;
+304;;;;;;;;;;;
+305;White Modern Kitchen;;;;;;;;;;;;;;;;;;;White Modern Kitchen;;;;;;;;;;
+309;10;;2325.60;;;;Invoice due date;;
+320;Kitchen/ASCII;;;;;;;;;-1
+321;HAECKER;;;;;;;;HAECKER;;;0.00;-1;1;
+322;1/3;Kitchen/ASCII;1
+401;;;;;;;;;;;0.00;;;;;;0.00;0.00;;;0.00;0.00;;0.00;0.00;0.00;0.00;;;;0.00;0.00
+402;White Modern Kitchen;;;;;;;;;;;;;;;;;;;White Modern Kitchen;;;;;;;;;;
+403;20.00;5.00;0.00;0.00;0.00;GBP;1;1;1;-1;British Pounds;0.63;£;0;2;0;0;0;0
+404;2325.60;1938.00;1938.00;0.00;0.00;0.00;387.60;0.00;0.00;0.00;0.00;0.00;0.0;0.00;0.00;0.00;2325.60;0.00;0.00;0.00;0.00
+405;100.00;0;Plinth, height
+405;70.00;1;Plinth, indent
+405;16.00;2;Plinth, thickness
+405;0.00;4;Plinth, indent at end
+405;39.00;20;Worktop thickness
+405;40.00;21;Worktop overhang
+405;20.00;22;Worktop, overhang end-edges
+405;60.00;30;Light screen, height
+405;0.00;31;Light screen, indent
+405;10.00;32;Light screen, thickness
+405;0.00;34;Light screen, indent at end
+405;55.00;40;Cornice, height
+405;0.00;41;Cornice, indent
+405;0.00;45;Cornice, indent at end
+405;0.00;51;Ceiling filler, indent
+405;0.00;54;Ceiling filler, indent at end
+405;25.00;60;Covering panel, thickness
+405;23.00;61;Covering panel, overhang
+405;0.00;62;Covering panel, overhang end-edges
+405;0.00;63;Covering panel, additional overhang
+405;-1.00;64;Covering panel, overhang at top
+405;721.00;100;Base unit, height
+405;560.00;101;Base unit, depth
+405;150.00;102;Base unit, lower edge
+405;325.00;111;Wall unit, depth
+405;0.00;155;Tall unit building block, depth
+405;0.00;156;Wall offset level 1
+405;0.00;157;Wall offset level 2
+405;0.00;170;Distance before break for transition cupboards
+405;0.00;171;Distance after break for transition cupboards
+405;0.00;173;Spotlight, distance from front of cabinet
+405;0.00;174;Spotlight at top, distance from front of cabinet
+405;0.00;175;Spotlight, distance from side of cabinet
+405;0.00;176;Spotlight at top, distance from side of cabinet
+405;0.00;177;Spotlight, radius
+405;0.00;178;Spotlight at top, radius
+405;0.00;190;Planning depth 1
+405;0.00;191;Planning depth 2
+405;0.00;192;Planning depth 3
+405;0.00;193;Planning depth 4
+405;0.00;194;Planning depth 5
+405;0.00;200;Built in light, distance from front of cabinet
+405;0.00;201;Built in light, distance from side of cabinet
+405;0.00;202;Built in light, depth
+405;0.00;203;Built in light at top, distance from front of cabinet
+405;0.00;204;Built in light at top, distance from side of cabinet
+405;0.00;205;Built in light at top, depth
+406;;;;;;;;;;;
+407;5;0.00;0;On floor
+407;10;100.00;0;On plinths
+407;30;821.00;1;Under worktop
+407;35;821.00;0;Worktop
+407;40;860.00;0;On worktop
+407;50;1420.00;1;Under wall unit
+407;60;1420.00;0;Wall unit
+407;85;1422.00;0;Mid unit height (1)
+407;87;1598.00;0;Mid unit height (2)
+407;88;1732.00;0;Mid unit height (3)
+407;70;2000.00;1;Top unit
+407;80;2000.00;0;Over wall unit
+407;90;2135.00;1;Tall unit full-length (1)
+407;91;2135.00;0;Tall unit full-length (1)
+407;110;2291.00;1;Tall unit full-length (2)
+407;111;2291.00;0;Tall unit full-length (2)
+407;250;2400.00;1;Ceiling
+408;0;1000.00;1000.00
+408;1;0;1;1000.00;1000.00;0.00;0.00;1500.00;2400.00;200.00;1;90.00
+408;5;1;1;60;69;1250.00;1000.00;0.00;0.00
+408;6;1;3;Width;br;1000.00;1;1;0;
+408;6;1;4;Height;h;2100.00;1;1;1;
+408;6;1;5;Depth;d;200.00;1;1;2;
+408;6;1;205;Width, doorframe;brdra;50.00;1;-1;-1;
+408;6;1;545;Width door list;brdlst;80.00;1;-1;-1;
+408;6;1;400;Visible hinges;synhe;1;4;-1;-1;
+408;6;1;40;Hinge;he;2;4;4;0;
+408;6;1;38;Door type;dt;1;4;-1;-1;
+408;6;1;184;Width, mullion;spbr;20.00;1;-1;-1;
+408;6;1;50;Number in width;ab;2;2;-1;-1;
+408;6;1;49;Number in height;ah;6;2;-1;-1;
+408;6;1;429;Angle opening;viap;0.00;1;-1;-1;
+408;6;1;471;Symbol;sym;1;4;-1;-1;
+408;6;1;185;Curtain;gar;0;4;-1;-1;
+408;6;1;217;Curtain beneath;garder;0.00;1;-1;-1;
+408;6;1;393;Opening in percent;pop;60;2;-1;-1;
+408;6;1;235;Overhang;uk;150.00;1;-1;-1;
+408;6;1;1153;Height, curtains above window;hcurt;0.00;1;-1;-1;
+408;6;1;186;Blinds;pers;0;4;-1;-1;
+408;6;1;187;Height of blinds in percent;hope;100.00;1;-1;-1;
+408;6;1;20;Number;a;20;2;-1;-1;
+408;6;1;1526;Doorstep;dst;0;4;-1;-1;
+408;6;1;1527;Height of doorstep;hdst;5.00;1;-1;-1;
+408;6;1;390;Distance from top;avsto;0;4;-1;-1;
+408;6;1;233;Height difference;hofo;255.00;1;-1;-1;
+408;1;0;2;2500.00;1000.00;0.00;90.00;900.00;2400.00;200.00;1;90.00
+408;1;0;3;2500.00;1900.00;0.00;0.00;3500.00;2400.00;200.00;1;90.00
+408;5;0;3;60;96;3250.00;1900.00;1050.00;0.00
+408;6;1;3;Width;br;1500.00;1;1;0;
+408;6;1;4;Height;h;1100.00;1;1;1;
+408;6;1;5;Depth;d;200.00;1;1;2;
+408;6;1;199;Width, window frame;tyvra;50.00;1;-1;-1;
+408;6;1;191;Width, window sash;brvin;80.00;1;-1;-1;
+408;6;1;735;Height, section 2;hs2;350.00;1;-1;-1;
+408;6;1;401;Divided window at bottom;delt;0;4;-1;-1;
+408;6;1;484;Divided;del;1;4;-1;-1;
+408;6;1;400;Visible hinges;synhe;1;4;-1;-1;
+408;6;1;150;Handle;hdl;1;4;-1;-1;
+408;6;1;185;Curtain;gar;0;4;-1;-1;
+408;6;1;217;Curtain beneath;garder;50;2;-1;-1;
+408;6;1;186;Blinds;pers;0;4;-1;-1;
+408;6;1;187;Height of blinds in percent;hope;100;2;-1;-1;
+408;6;1;20;Number;a;20;2;-1;-1;
+408;6;1;810;Cord for blinds;cordb;0;4;-1;-1;
+408;6;1;306;Distance from edge;avst;50.00;1;-1;-1;
+408;6;1;1062;Window sill;wsill;0;4;-1;-1;
+408;6;1;1065;Window sill, thickness;wsth;16.00;1;-1;-1;
+408;6;1;1063;Window sill, side overhang;wssi;20.00;1;-1;-1;
+408;6;1;1064;Window sill, front overhang;wsfr;20.00;1;-1;-1;
+408;6;1;184;Width, mullion;spbr;20.00;1;-1;-1;
+408;6;1;50;Number in width;ab;1;2;-1;-1;
+408;6;1;49;Number in height;ah;1;2;-1;-1;
+408;6;1;429;Angle opening;viap;40.00;1;-1;-1;
+408;6;1;235;Overhang;uk;150.00;1;-1;-1;
+408;6;1;393;Opening in percent;pop;60;2;-1;-1;
+408;6;1;1153;Height, curtains above window;hcurt;0.00;1;-1;-1;
+408;6;253;24;Worktop;GsCou;0;5;2;2;
+408;6;253;161;Covering panel;GsCP;0;5;2;12;
+408;1;0;4;6000.00;1900.00;0.00;90.00;3500.00;2400.00;200.00;1;90.00
+408;1;0;5;6000.00;5400.00;0.00;180.00;5000.00;2400.00;200.00;1;90.00
+408;1;0;6;1000.00;5400.00;0.00;270.00;4400.00;2400.00;200.00;1;90.00
+408;5;0;6;60;325;1000.00;5100.00;0.00;270.00
+408;6;1;3;Width;br;4000.00;1;1;0;
+408;6;1;4;Height;h;2000.00;1;1;1;
+408;6;1;5;Depth;d;200.00;1;1;2;
+408;6;1;180;Moulding, width;lb;100.00;1;-1;-1;
+408;6;1;1076;Number of doors;numdoor;4;2;-1;-1;
+408;6;1;433;Number on left side;ant_v;2;2;-1;-1;
+408;6;1;13;Width, frame;rb;50.00;1;-1;-1;
+408;6;1;150;Handle;hdl;1;4;-1;-1;
+408;6;1;40;Hinge;he;0;4;-1;-1;
+408;6;1;38;Door type;dt;1;4;-1;-1;
+408;6;1;186;Blinds;pers;0;4;-1;-1;
+408;6;1;90;Direction;ret;1;4;4;3;
+409;1;0;SO1.10;8;3;
+410;;HAECKER;;;1
+411;HAECKER;;;;;;;;;;;;;;;;;;;HAECKER;;;;UK;The United Kingdom;;;;;
+412;Olympic Kitchens;;20 Prince William Road\rLoughborough;LE11 5TB;Leicestershire;01509 611677;;;01531 800340;jamesb@compusoft.uk.com;;;;;;;;;;Olympic Kitchens;;;;UK;The United Kingdom;;;;;www.compusoftgroup.com
+420;HÄCKER Classic 2018-1 EN Kitchen;HÄCKER Classic;0.00;100.00;0;HACL8181;0;
+421;Plinth Height;100.00 mm
+421;Worktop Height;860.00 mm
+422;71;1;2018;20170810;K
+423;Furniture;Classic;ATLAN;1;1;0;HAECKER
+424;ATLAN;ATLAN Atlanta;;2;1.00;1.00;0.00;;;1;ATLAN Atlanta;1;2;0.00;0.00;0.00;1-C;
+425;105;Door combination;C340;C340 Atlanta -Light Acacia Matex-;;;1;1;0;
+425;202;Carcase colour outside;17;17 Basalt Grey;;;1;28;1;
+425;303;Handle/Knock Combination;332;332 Handle 160mm Stainl.Steel Col.;;;1;121;6;
+425;304;Handle/Knock Position;A;A Horizontal / Horizontal;;;1;192;7;
+425;700;Drawer finish;25;25 Nova Pro Modul C;;;1;196;9;
+425;206;VISIBLE Carcase Side Finish;*;* Same as carcase colour;;;1;46;10;
+425;207;Visible carcase side colour;*;* Same as carcase colour;;;1;52;11;
+425;961;Anti-slip-mat;D;D For Swivel Shelves;;;1;234;12;
+425;962;Colour channel handle;*;*;;;1;238;22;
+423;Furniture;Plinth;;1;71;0;HAECKER
+424;KU;KU synthetic;;1;1.00;1.00;0.00;;;0;KU synthetic;400;97;0.00;0.00;0.00;1;
+425;401;Plinth colour;17;17 Basalt Grey;;;1;2382;15;
+430;1;Furniture;0.00;Furniture
+430;4;Accessories;0.00;Accessories Gross
+450;0;332;Stainless steel coloured handle;0;HÄCKER Classic 2018-1 EN Kitchen
+450;1;332;Stainless steel coloured handle;0;HÄCKER Classic 2018-1 EN Kitchen
+450;2;332;Stainless steel coloured handle;0;HÄCKER Classic 2018-1 EN Kitchen
+450;3;332;Stainless steel coloured handle;0;HÄCKER Classic 2018-1 EN Kitchen
+500;1;0;U60;;1;1;1;Base unit 60cm\r1 door joined to dummy drawer\r2 shelves;1.00000;pce;;1;173.00;173.00;173.00;0.00;0.00;0.00;0.00;0.00;0.00;173.00;20.0;34.60;207.60;0;1;0.00;0.00;0.00;1;281.00;27.40;0.00;avail;;;;;173.00;0;2;0;;-1;0;0.00;0.00;0.00;0.00;0.00;0;20.00;0;0;6;0;0;0;1;1;0;N;0;0.00
+501;1;0;0;0;1;3;0;Left;;Right
+502;
+505;1;0;;173.00;173.00;173.00;11;Furniture;1;C340 Atlanta -Light Acacia Matex-
+510;50;1;600.00;600.00;;721.00;721.00;;560.00;560.00;;0;0;0
+511;100.00;2950.00;1900.00;100.00;0.00;2950.00;1900.00;0.00
+512;;U6002.;1;1;-1
+513;1;1;3;Width;br;600.00;1;1;0;
+513;1;1;4;Height;h;721.00;1;1;1;
+513;1;1;5;Depth;d;560.00;1;1;2;
+513;1;1;40;Hinge;he;1;4;4;0;
+513;1;1;260;Veneering;fin;0;4;4;1;
+513;1;1;146;Handle, door;dhdl;0;5;3;0;
+513;1;1;147;Handle, glass door;dghdl;0;5;3;1;
+513;1;1;148;Handle, drawer;drhdl;0;5;3;2;
+513;1;1;149;Handle, small drawer;sdrhdl;0;5;3;3;
+513;1;1;90;Direction;ret;1;4;4;3;
+513;1;1;265;Panel;pa;0;4;-1;-1;
+513;1;1;991;Panel at veneered sides;paout;0;4;-1;-1;
+513;1;1;1011;Spotlight / type of bottom;spotL;0;4;-1;-1;
+513;1;1;1109;Spotlight, distance from front;spotdist;0.00;1;-1;-1;
+513;1;1;2224;Spotlight / type of top;spotLTop;0;4;-1;-1;
+513;1;1;2225;Spotlight, distance from front at top;spotdistTop;0.00;1;-1;-1;
+513;1;1;1318;Sink cut;scut;0;4;-1;-1;
+513;1;1;1558;Prolongation, rear;proLong;0;4;-1;-1;
+513;1;1;2829;Prolongation, bottom;proLongB;0;4;-1;-1;
+513;1;1;719;Type of cooker top;tcook;0;4;4;7;
+513;1;253;22;Plinth;GsPli;0;5;2;0;
+513;1;253;23;Plinth moulding;GsPliL;0;5;2;1;
+513;1;253;24;Worktop;GsCou;0;5;2;2;
+513;1;253;25;Light screen;GsLiSc;0;5;2;3;
+513;1;253;26;Cornice;GsCor;0;5;2;4;
+513;1;253;27;Ceiling filler;GsCeil;0;5;2;5;
+513;1;253;29;Tiles over worktop;GsTile;0;5;2;7;
+513;1;253;33;Decor moulding;GsDecMould;0;5;2;11;
+513;1;253;161;Covering panel;GsCP;0;5;2;12;
+513;2;b;600.00;
+513;2;h;721.00;
+513;2;t;560.00;
+513;2;Construction_ID;-1.00;
+520;HAECKER;HÄCKER Classic 2018-1 EN Kitchen;Furniture;Classic;HACL8181
+524;ATLAN;ATLAN Atlanta;;2;1.00;1.00;0.00;;;1;ATLAN Atlanta;1;2;0.00;0.00;0.00;1-C;
+525;105;Door combination;C340;C340 Atlanta -Light Acacia Matex-;;;1;1;0;
+525;202;Carcase colour outside;17;17 Basalt Grey;;;1;28;1;
+525;303;Handle/Knock Combination;332;332 Handle 160mm Stainl.Steel Col.;;;1;121;6;
+525;304;Handle/Knock Position;A;A Horizontal / Horizontal;;;1;192;7;
+525;700;Drawer finish;25;25 Nova Pro Modul C;;;1;196;9;
+525;206;VISIBLE Carcase Side Finish;*;* Same as carcase colour;;;1;46;10;
+525;207;Visible carcase side colour;*;* Same as carcase colour;;;1;52;11;
+525;961;Anti-slip-mat;D;D For Swivel Shelves;;;1;234;12;
+525;962;Colour channel handle;*;*;;;1;238;22;
+500;2;0;U120;;1;1;1;Base unit 120cm\r2 doors joined to dummy drawer\r2 shelves;1.00000;pce;;1;285.00;285.00;285.00;0.00;0.00;0.00;0.00;0.00;0.00;285.00;20.0;57.00;342.00;0;1;0.00;0.00;0.00;5;557.00;45.50;0.00;avail;;;;;285.00;0;2;0;;-1;0;0.00;0.00;0.00;0.00;0.00;0;20.00;0;0;6;0;0;0;1;1;0;N;1;0.00
+501;0;0;0;0;1;3;0;;;Right
+502;
+505;1;0;;285.00;285.00;285.00;11;Furniture;1;C340 Atlanta -Light Acacia Matex-
+510;50;1;1200.00;1200.00;;721.00;721.00;;560.00;560.00;;0;0;0
+511;100.00;3550.00;1900.00;100.00;0.00;3550.00;1900.00;0.00
+512;;U12002.;1;1;-1
+513;1;1;3;Width;br;1200.00;1;1;0;
+513;1;1;4;Height;h;721.00;1;1;1;
+513;1;1;5;Depth;d;560.00;1;1;2;
+513;1;1;40;Hinge;he;0;4;4;0;
+513;1;1;260;Veneering;fin;0;4;4;1;
+513;1;1;146;Handle, door;dhdl;0;5;3;0;
+513;1;1;147;Handle, glass door;dghdl;0;5;3;1;
+513;1;1;148;Handle, drawer;drhdl;0;5;3;2;
+513;1;1;149;Handle, small drawer;sdrhdl;0;5;3;3;
+513;1;1;90;Direction;ret;1;4;4;3;
+513;1;1;265;Panel;pa;0;4;-1;-1;
+513;1;1;991;Panel at veneered sides;paout;0;4;-1;-1;
+513;1;1;1011;Spotlight / type of bottom;spotL;0;4;-1;-1;
+513;1;1;1109;Spotlight, distance from front;spotdist;0.00;1;-1;-1;
+513;1;1;2224;Spotlight / type of top;spotLTop;0;4;-1;-1;
+513;1;1;2225;Spotlight, distance from front at top;spotdistTop;0.00;1;-1;-1;
+513;1;1;1318;Sink cut;scut;0;4;-1;-1;
+513;1;1;1558;Prolongation, rear;proLong;0;4;-1;-1;
+513;1;1;2829;Prolongation, bottom;proLongB;0;4;-1;-1;
+513;1;1;719;Type of cooker top;tcook;0;4;4;7;
+513;1;253;22;Plinth;GsPli;0;5;2;0;
+513;1;253;23;Plinth moulding;GsPliL;0;5;2;1;
+513;1;253;24;Worktop;GsCou;0;5;2;2;
+513;1;253;25;Light screen;GsLiSc;0;5;2;3;
+513;1;253;26;Cornice;GsCor;0;5;2;4;
+513;1;253;27;Ceiling filler;GsCeil;0;5;2;5;
+513;1;253;29;Tiles over worktop;GsTile;0;5;2;7;
+513;1;253;33;Decor moulding;GsDecMould;0;5;2;11;
+513;1;253;161;Covering panel;GsCP;0;5;2;12;
+513;2;b;1200.00;
+513;2;h;721.00;
+513;2;t;560.00;
+513;2;Construction_ID;-1.00;
+520;HAECKER;HÄCKER Classic 2018-1 EN Kitchen;Furniture;Classic;HACL8181
+524;ATLAN;ATLAN Atlanta;;2;1.00;1.00;0.00;;;1;ATLAN Atlanta;1;2;0.00;0.00;0.00;1-C;
+525;105;Door combination;C340;C340 Atlanta -Light Acacia Matex-;;;1;1;0;
+525;202;Carcase colour outside;17;17 Basalt Grey;;;1;28;1;
+525;303;Handle/Knock Combination;332;332 Handle 160mm Stainl.Steel Col.;;;1;121;6;
+525;304;Handle/Knock Position;A;A Horizontal / Horizontal;;;1;192;7;
+525;700;Drawer finish;25;25 Nova Pro Modul C;;;1;196;9;
+525;206;VISIBLE Carcase Side Finish;*;* Same as carcase colour;;;1;46;10;
+525;207;Visible carcase side colour;*;* Same as carcase colour;;;1;52;11;
+525;961;Anti-slip-mat;D;D For Swivel Shelves;;;1;234;12;
+525;962;Colour channel handle;*;*;;;1;238;22;
+500;3;0;U60;;1;1;1;Base unit 60cm\r1 door joined to dummy drawer\r2 shelves;1.00000;pce;;1;173.00;173.00;173.00;0.00;0.00;0.00;0.00;0.00;0.00;173.00;20.0;34.60;207.60;0;1;0.00;0.00;0.00;7;281.00;27.40;0.00;avail;;;;;173.00;0;2;0;;-1;0;0.00;0.00;0.00;0.00;0.00;0;20.00;0;0;6;0;0;0;1;1;0;N;2;0.00
+501;2;0;0;0;1;3;0;Right;;Right
+502;
+505;1;0;;173.00;173.00;173.00;11;Furniture;1;C340 Atlanta -Light Acacia Matex-
+510;50;1;600.00;600.00;;721.00;721.00;;560.00;560.00;;0;0;0
+511;100.00;4750.00;1900.00;100.00;0.00;4750.00;1900.00;0.00
+512;;U6002.;1;1;-1
+513;1;1;3;Width;br;600.00;1;1;0;
+513;1;1;4;Height;h;721.00;1;1;1;
+513;1;1;5;Depth;d;560.00;1;1;2;
+513;1;1;40;Hinge;he;2;4;4;0;
+513;1;1;260;Veneering;fin;0;4;4;1;
+513;1;1;146;Handle, door;dhdl;0;5;3;0;
+513;1;1;147;Handle, glass door;dghdl;0;5;3;1;
+513;1;1;148;Handle, drawer;drhdl;0;5;3;2;
+513;1;1;149;Handle, small drawer;sdrhdl;0;5;3;3;
+513;1;1;90;Direction;ret;1;4;4;3;
+513;1;1;265;Panel;pa;0;4;-1;-1;
+513;1;1;991;Panel at veneered sides;paout;0;4;-1;-1;
+513;1;1;1011;Spotlight / type of bottom;spotL;0;4;-1;-1;
+513;1;1;1109;Spotlight, distance from front;spotdist;0.00;1;-1;-1;
+513;1;1;2224;Spotlight / type of top;spotLTop;0;4;-1;-1;
+513;1;1;2225;Spotlight, distance from front at top;spotdistTop;0.00;1;-1;-1;
+513;1;1;1318;Sink cut;scut;0;4;-1;-1;
+513;1;1;1558;Prolongation, rear;proLong;0;4;-1;-1;
+513;1;1;2829;Prolongation, bottom;proLongB;0;4;-1;-1;
+513;1;1;719;Type of cooker top;tcook;0;4;4;7;
+513;1;253;22;Plinth;GsPli;0;5;2;0;
+513;1;253;23;Plinth moulding;GsPliL;0;5;2;1;
+513;1;253;24;Worktop;GsCou;0;5;2;2;
+513;1;253;25;Light screen;GsLiSc;0;5;2;3;
+513;1;253;26;Cornice;GsCor;0;5;2;4;
+513;1;253;27;Ceiling filler;GsCeil;0;5;2;5;
+513;1;253;29;Tiles over worktop;GsTile;0;5;2;7;
+513;1;253;33;Decor moulding;GsDecMould;0;5;2;11;
+513;1;253;161;Covering panel;GsCP;0;5;2;12;
+513;2;b;600.00;
+513;2;h;721.00;
+513;2;t;560.00;
+513;2;Construction_ID;-1.00;
+520;HAECKER;HÄCKER Classic 2018-1 EN Kitchen;Furniture;Classic;HACL8181
+524;ATLAN;ATLAN Atlanta;;2;1.00;1.00;0.00;;;1;ATLAN Atlanta;1;2;0.00;0.00;0.00;1-C;
+525;105;Door combination;C340;C340 Atlanta -Light Acacia Matex-;;;1;1;0;
+525;202;Carcase colour outside;17;17 Basalt Grey;;;1;28;1;
+525;303;Handle/Knock Combination;332;332 Handle 160mm Stainl.Steel Col.;;;1;121;6;
+525;304;Handle/Knock Position;A;A Horizontal / Horizontal;;;1;192;7;
+525;700;Drawer finish;25;25 Nova Pro Modul C;;;1;196;9;
+525;206;VISIBLE Carcase Side Finish;*;* Same as carcase colour;;;1;46;10;
+525;207;Visible carcase side colour;*;* Same as carcase colour;;;1;52;11;
+525;961;Anti-slip-mat;D;D For Swivel Shelves;;;1;234;12;
+525;962;Colour channel handle;*;*;;;1;238;22;
+500;4;0;UEKB125D;;1;1;1;Corner base unit 125x65cm\r1 door 60cm\r2 laminated swivel shelves\rfixed panel right or left;1.00000;pce;;1;307.00;307.00;307.00;0.00;0.00;0.00;0.00;0.00;0.00;307.00;20.0;61.40;368.40;0;1;0.00;0.00;0.00;9;465.00;27.80;0.00;avail;;;;Für variable Lösung bitte$MP-Vario bestellen!$Aufgrund von$Kollisionsproblemen benötigen$Eckpassstücke ein$Mindestplanmaß von 68x68cm$bei den Griffen 349, 352, 536,$537 und 620.;307.00;0;2;0;;-1;0;0.00;0.00;0.00;0.00;0.00;0;20.00;0;0;6;0;0;0;1;1;0;L;3;0.00
+501;0;0;0;0;0;3;0;;;Left
+502;Direction = Left, Offset = 250.00, Filler, thickness = 90.00
+503;0;Direction = Left, Offset = 250.00, Filler, thickness = 90.00;;;;
+503;2;Direction;4;3;Left;
+503;2;Offset;-1;-365;250.00;
+503;2;Filler, thickness;-1;-366;90.00;
+505;1;0;;307.00;307.00;307.00;11;Furniture;1;C340 Atlanta -Light Acacia Matex-
+510;50;219;1000.00;1000.00;;721.00;721.00;;560.00;560.00;;0;0;0
+511;100.00;6000.00;3150.00;100.00;90.00;6000.00;1900.00;-270.00
+512;;UE12514.;1;27;-1
+513;1;1;3;Width;br;1000.00;1;1;0;
+513;1;1;4;Height;h;721.00;1;1;1;
+513;1;1;5;Depth;d;560.00;1;1;2;
+513;1;1;131;Width, front door;bdf;600.00;1;-1;-1;
+513;1;1;132;Back door;bdr;0;4;-1;-1;
+513;1;1;234;Width of back door;brbd;400.00;1;-1;-1;
+513;1;1;40;Hinge;he;0;4;4;0;
+513;1;1;146;Handle, door;dhdl;0;5;3;0;
+513;1;1;147;Handle, glass door;dghdl;0;5;3;1;
+513;1;1;148;Handle, drawer;drhdl;0;5;3;2;
+513;1;1;149;Handle, small drawer;sdrhdl;0;5;3;3;
+513;1;1;90;Direction;ret;0;4;4;3;
+513;1;1;365;Offset;of;250.00;1;-1;-1;
+513;1;1;366;Filler, thickness;ft;90.00;1;-1;-1;
+513;1;1;367;Filler, depth;fd;560.00;1;-1;-1;
+513;1;1;2861;Filler colour;fillCol;4;4;-1;-1;
+513;1;1;124;Angle;vink;90.00;1;-1;-1;
+513;1;1;260;Veneering;fin;0;4;4;1;
+513;1;254;3;Front piece;for;1;4;-1;-1;
+513;1;1;1059;Automatic filler depth calculation by placing;afdc;1;4;-1;-1;
+513;1;1;1011;Spotlight / type of bottom;spotL;0;4;-1;-1;
+513;1;1;1109;Spotlight, distance from front;spotdist;0.00;1;-1;-1;
+513;1;1;2224;Spotlight / type of top;spotLTop;0;4;-1;-1;
+513;1;1;2225;Spotlight, distance from front at top;spotdistTop;0.00;1;-1;-1;
+513;1;1;1318;Sink cut;scut;0;4;-1;-1;
+513;1;1;1852;Carcase side;cs;0;4;-1;-1;
+513;1;1;1954;Automatic wall offset at;autoWOffAt;2;4;-1;-1;
+513;1;253;22;Plinth;GsPli;0;5;2;0;
+513;1;253;23;Plinth moulding;GsPliL;0;5;2;1;
+513;1;253;24;Worktop;GsCou;0;5;2;2;
+513;1;253;25;Light screen;GsLiSc;0;5;2;3;
+513;1;253;26;Cornice;GsCor;0;5;2;4;
+513;1;253;27;Ceiling filler;GsCeil;0;5;2;5;
+513;1;253;29;Tiles over worktop;GsTile;0;5;2;7;
+513;1;253;33;Decor moulding;GsDecMould;0;5;2;11;
+513;1;253;161;Covering panel;GsCP;0;5;2;12;
+513;2;b;1250.00;
+513;2;h;721.00;
+513;2;t;650.00;
+513;2;b1;560.00;
+513;2;b2;600.00;
+513;2;b3;1000.00;
+513;2;t1;560.00;
+513;2;Construction_ID;0.00;
+520;HAECKER;HÄCKER Classic 2018-1 EN Kitchen;Furniture;Classic;HACL8181
+524;ATLAN;ATLAN Atlanta;;2;1.00;1.00;0.00;;;1;ATLAN Atlanta;1;2;0.00;0.00;0.00;1-C;
+525;105;Door combination;C340;C340 Atlanta -Light Acacia Matex-;;;1;1;0;
+525;202;Carcase colour outside;17;17 Basalt Grey;;;1;28;1;
+525;303;Handle/Knock Combination;332;332 Handle 160mm Stainl.Steel Col.;;;1;121;6;
+525;304;Handle/Knock Position;A;A Horizontal / Horizontal;;;1;192;7;
+525;700;Drawer finish;25;25 Nova Pro Modul C;;;1;196;9;
+525;206;VISIBLE Carcase Side Finish;*;* Same as carcase colour;;;1;46;10;
+525;207;Visible carcase side colour;*;* Same as carcase colour;;;1;52;11;
+525;961;Anti-slip-mat;D;D For Swivel Shelves;;;1;234;12;
+525;962;Colour channel handle;*;*;;;1;238;22;
+500;5;0;G103L-4;;1;1;1;Tall unit 60 cm\rfor appliances  H: 203,5 cm\r1 door, 1 shelf,\r1 separate door\rap.: 103 cm;1.00000;pce;;1;299.00;299.00;299.00;0.00;0.00;0.00;0.00;0.00;0.00;299.00;20.0;59.80;358.80;0;1;0.00;0.00;0.00;15;756.00;54.40;0.00;avail;;;;;299.00;0;2;0;;-1;0;0.00;0.00;0.00;0.00;0.00;0;20.00;0;0;6;0;0;0;1;1;0;N;4;0.00
+501;1;0;0;0;1;3;0;Left;;Right
+502;
+505;1;0;;299.00;299.00;299.00;11;Furniture;1;C340 Atlanta -Light Acacia Matex-
+510;50;1;600.00;600.00;;2035.00;2035.00;;560.00;560.00;;0;0;0
+511;100.00;6000.00;3150.00;100.00;90.00;6000.00;3150.00;90.00
+512;;GI6265.;1;1;-1
+513;1;1;3;Width;br;600.00;1;1;0;
+513;1;1;4;Height;h;2035.00;1;1;1;
+513;1;1;5;Depth;d;560.00;1;1;2;
+513;1;1;40;Hinge;he;1;4;4;0;
+513;1;1;260;Veneering;fin;0;4;4;1;
+513;1;1;146;Handle, door;dhdl;0;5;3;0;
+513;1;1;147;Handle, glass door;dghdl;0;5;3;1;
+513;1;1;148;Handle, drawer;drhdl;0;5;3;2;
+513;1;1;149;Handle, small drawer;sdrhdl;0;5;3;3;
+513;1;1;90;Direction;ret;1;4;4;3;
+513;1;1;265;Panel;pa;0;4;-1;-1;
+513;1;1;991;Panel at veneered sides;paout;0;4;-1;-1;
+513;1;1;1011;Spotlight / type of bottom;spotL;0;4;-1;-1;
+513;1;1;1109;Spotlight, distance from front;spotdist;0.00;1;-1;-1;
+513;1;1;2224;Spotlight / type of top;spotLTop;0;4;-1;-1;
+513;1;1;2225;Spotlight, distance from front at top;spotdistTop;0.00;1;-1;-1;
+513;1;1;1318;Sink cut;scut;0;4;-1;-1;
+513;1;1;1558;Prolongation, rear;proLong;0;4;-1;-1;
+513;1;1;2829;Prolongation, bottom;proLongB;0;4;-1;-1;
+513;1;1;719;Type of cooker top;tcook;0;4;4;7;
+513;1;253;22;Plinth;GsPli;0;5;2;0;
+513;1;253;23;Plinth moulding;GsPliL;0;5;2;1;
+513;1;253;24;Worktop;GsCou;0;5;2;2;
+513;1;253;25;Light screen;GsLiSc;0;5;2;3;
+513;1;253;26;Cornice;GsCor;0;5;2;4;
+513;1;253;27;Ceiling filler;GsCeil;0;5;2;5;
+513;1;253;29;Tiles over worktop;GsTile;0;5;2;7;
+513;1;253;33;Decor moulding;GsDecMould;0;5;2;11;
+513;1;253;161;Covering panel;GsCP;0;5;2;12;
+513;2;b;600.00;
+513;2;h;2035.00;
+513;2;t;560.00;
+513;2;Construction_ID;-1.00;
+520;HAECKER;HÄCKER Classic 2018-1 EN Kitchen;Furniture;Classic;HACL8181
+524;ATLAN;ATLAN Atlanta;;2;1.00;1.00;0.00;;;1;ATLAN Atlanta;1;2;0.00;0.00;0.00;1-C;
+525;105;Door combination;C340;C340 Atlanta -Light Acacia Matex-;;;1;1;0;
+525;202;Carcase colour outside;17;17 Basalt Grey;;;1;28;1;
+525;303;Handle/Knock Combination;332;332 Handle 160mm Stainl.Steel Col.;;;1;121;6;
+525;304;Handle/Knock Position;A;A Horizontal / Horizontal;;;1;192;7;
+525;700;Drawer finish;25;25 Nova Pro Modul C;;;1;196;9;
+525;206;VISIBLE Carcase Side Finish;*;* Same as carcase colour;;;1;46;10;
+525;207;Visible carcase side colour;*;* Same as carcase colour;;;1;52;11;
+525;961;Anti-slip-mat;D;D For Swivel Shelves;;;1;234;12;
+525;962;Colour channel handle;*;*;;;1;238;22;
+500;6;0;G103L-4;;1;1;1;Tall unit 60 cm\rfor appliances  H: 203,5 cm\r1 door, 1 shelf,\r1 separate door\rap.: 103 cm;1.00000;pce;;1;299.00;299.00;299.00;0.00;0.00;0.00;0.00;0.00;0.00;299.00;20.0;59.80;358.80;0;1;0.00;0.00;0.00;21;756.00;54.40;0.00;avail;;;;;299.00;0;2;0;;-1;0;0.00;0.00;0.00;0.00;0.00;0;20.00;0;0;6;0;0;0;1;1;0;N;5;0.00
+501;2;0;0;0;1;3;0;Right;;Right
+502;
+505;1;0;;299.00;299.00;299.00;11;Furniture;1;C340 Atlanta -Light Acacia Matex-
+510;50;1;600.00;600.00;;2035.00;2035.00;;560.00;560.00;;0;0;0
+511;100.00;6000.00;3750.00;100.00;90.00;6000.00;3750.00;90.00
+512;;GI6265.;1;1;-1
+513;1;1;3;Width;br;600.00;1;1;0;
+513;1;1;4;Height;h;2035.00;1;1;1;
+513;1;1;5;Depth;d;560.00;1;1;2;
+513;1;1;40;Hinge;he;2;4;4;0;
+513;1;1;260;Veneering;fin;0;4;4;1;
+513;1;1;146;Handle, door;dhdl;0;5;3;0;
+513;1;1;147;Handle, glass door;dghdl;0;5;3;1;
+513;1;1;148;Handle, drawer;drhdl;0;5;3;2;
+513;1;1;149;Handle, small drawer;sdrhdl;0;5;3;3;
+513;1;1;90;Direction;ret;1;4;4;3;
+513;1;1;265;Panel;pa;0;4;-1;-1;
+513;1;1;991;Panel at veneered sides;paout;0;4;-1;-1;
+513;1;1;1011;Spotlight / type of bottom;spotL;0;4;-1;-1;
+513;1;1;1109;Spotlight, distance from front;spotdist;0.00;1;-1;-1;
+513;1;1;2224;Spotlight / type of top;spotLTop;0;4;-1;-1;
+513;1;1;2225;Spotlight, distance from front at top;spotdistTop;0.00;1;-1;-1;
+513;1;1;1318;Sink cut;scut;0;4;-1;-1;
+513;1;1;1558;Prolongation, rear;proLong;0;4;-1;-1;
+513;1;1;2829;Prolongation, bottom;proLongB;0;4;-1;-1;
+513;1;1;719;Type of cooker top;tcook;0;4;4;7;
+513;1;253;22;Plinth;GsPli;0;5;2;0;
+513;1;253;23;Plinth moulding;GsPliL;0;5;2;1;
+513;1;253;24;Worktop;GsCou;0;5;2;2;
+513;1;253;25;Light screen;GsLiSc;0;5;2;3;
+513;1;253;26;Cornice;GsCor;0;5;2;4;
+513;1;253;27;Ceiling filler;GsCeil;0;5;2;5;
+513;1;253;29;Tiles over worktop;GsTile;0;5;2;7;
+513;1;253;33;Decor moulding;GsDecMould;0;5;2;11;
+513;1;253;161;Covering panel;GsCP;0;5;2;12;
+513;2;b;600.00;
+513;2;h;2035.00;
+513;2;t;560.00;
+513;2;Construction_ID;-1.00;
+520;HAECKER;HÄCKER Classic 2018-1 EN Kitchen;Furniture;Classic;HACL8181
+524;ATLAN;ATLAN Atlanta;;2;1.00;1.00;0.00;;;1;ATLAN Atlanta;1;2;0.00;0.00;0.00;1-C;
+525;105;Door combination;C340;C340 Atlanta -Light Acacia Matex-;;;1;1;0;
+525;202;Carcase colour outside;17;17 Basalt Grey;;;1;28;1;
+525;303;Handle/Knock Combination;332;332 Handle 160mm Stainl.Steel Col.;;;1;121;6;
+525;304;Handle/Knock Position;A;A Horizontal / Horizontal;;;1;192;7;
+525;700;Drawer finish;25;25 Nova Pro Modul C;;;1;196;9;
+525;206;VISIBLE Carcase Side Finish;*;* Same as carcase colour;;;1;46;10;
+525;207;Visible carcase side colour;*;* Same as carcase colour;;;1;52;11;
+525;961;Anti-slip-mat;D;D For Swivel Shelves;;;1;234;12;
+525;962;Colour channel handle;*;*;;;1;238;22;
+500;7;0;OE6058;;1;1;1;Corner wall unit 60x60cm\r2 doors, 1 shelf;1.00000;pce;;1;235.00;235.00;235.00;0.00;0.00;0.00;0.00;0.00;0.00;235.00;20.0;47.00;282.00;0;1;0.00;0.00;0.00;26;200.00;21.70;0.00;avail;;;;;235.00;0;2;0;;-1;0;0.00;0.00;0.00;0.00;0.00;0;20.00;0;0;6;0;0;0;1;1;0;N;6;0.00
+501;0;0;0;0;0;3;0;;;Left
+502;Direction = Left
+503;0;Direction = Left;;;;
+503;2;Direction;4;3;Left;
+505;1;0;;235.00;235.00;235.00;11;Furniture;1;C340 Atlanta -Light Acacia Matex-
+510;50;4;600.00;600.00;;580.00;580.00;;325.00;325.00;;0;0;0
+511;;6000.00;2500.00;1420.00;90.00;6000.00;1900.00;90.00
+512;;OE6058;1;20;-1
+513;1;1;3;Width;br;600.00;1;1;0;
+513;1;1;4;Height;h;580.00;1;1;1;
+513;1;1;5;Depth;d;325.00;1;1;2;
+513;1;1;88;Width 2;br2;0.00;1;-1;-1;
+513;1;1;89;Depth 2;d2;0.00;1;-1;-1;
+513;1;1;132;Back door;bdr;0;4;-1;-1;
+513;1;1;40;Hinge;he;0;4;4;0;
+513;1;1;146;Handle, door;dhdl;0;5;3;0;
+513;1;1;147;Handle, glass door;dghdl;0;5;3;1;
+513;1;1;260;Veneering;fin;0;4;4;1;
+513;1;1;1011;Spotlight / type of bottom;spotL;0;4;-1;-1;
+513;1;1;1109;Spotlight, distance from front;spotdist;0.00;1;-1;-1;
+513;1;1;2224;Spotlight / type of top;spotLTop;0;4;-1;-1;
+513;1;1;2225;Spotlight, distance from front at top;spotdistTop;0.00;1;-1;-1;
+513;1;1;90;Direction;ret;0;4;4;3;
+513;1;1;1318;Sink cut;scut;0;4;-1;-1;
+513;1;1;1558;Prolongation, rear;proLong;0;4;-1;-1;
+513;1;1;1954;Automatic wall offset at;autoWOffAt;2;4;-1;-1;
+513;1;253;22;Plinth;GsPli;0;5;2;0;
+513;1;253;23;Plinth moulding;GsPliL;0;5;2;1;
+513;1;253;24;Worktop;GsCou;0;5;2;2;
+513;1;253;25;Light screen;GsLiSc;0;5;2;3;
+513;1;253;26;Cornice;GsCor;0;5;2;4;
+513;1;253;27;Ceiling filler;GsCeil;0;5;2;5;
+513;1;253;29;Tiles over worktop;GsTile;0;5;2;7;
+513;1;253;33;Decor moulding;GsDecMould;0;5;2;11;
+513;1;253;161;Covering panel;GsCP;0;5;2;12;
+513;2;b;600.00;
+513;2;h;580.00;
+513;2;t;600.00;
+513;2;be;0.00;
+513;2;te;0.00;
+513;2;b1;325.00;
+513;2;t1;325.00;
+513;2;Construction_ID;-1.00;
+520;HAECKER;HÄCKER Classic 2018-1 EN Kitchen;Furniture;Classic;HACL8181
+524;ATLAN;ATLAN Atlanta;;2;1.00;1.00;0.00;;;1;ATLAN Atlanta;1;2;0.00;0.00;0.00;1-C;
+525;105;Door combination;C340;C340 Atlanta -Light Acacia Matex-;;;1;1;0;
+525;202;Carcase colour outside;17;17 Basalt Grey;;;1;28;1;
+525;303;Handle/Knock Combination;332;332 Handle 160mm Stainl.Steel Col.;;;1;121;6;
+525;304;Handle/Knock Position;A;A Horizontal / Horizontal;;;1;192;7;
+525;700;Drawer finish;25;25 Nova Pro Modul C;;;1;196;9;
+525;206;VISIBLE Carcase Side Finish;*;* Same as carcase colour;;;1;46;10;
+525;207;Visible carcase side colour;*;* Same as carcase colour;;;1;52;11;
+525;961;Anti-slip-mat;D;D For Swivel Shelves;;;1;234;12;
+525;962;Colour channel handle;*;*;;;1;238;22;
+500;8;0;OF6058;;1;1;1;Wall unit 60cm\r2 folding door units, vertical\r1 shelf;1.00000;pce;;1;167.00;167.00;167.00;0.00;0.00;0.00;0.00;0.00;0.00;167.00;20.0;33.40;200.40;0;1;0.00;0.00;0.00;28;127.00;17.00;0.00;avail;;;;;167.00;0;2;0;;-1;0;0.00;0.00;0.00;0.00;0.00;0;20.00;0;0;6;0;0;0;1;1;0;N;7;0.00
+501;1;0;0;0;1;3;0;Left;;Right
+502;
+505;1;0;;167.00;167.00;167.00;11;Furniture;1;C340 Atlanta -Light Acacia Matex-
+510;50;1;600.00;600.00;;580.00;580.00;;325.00;325.00;;0;0;0
+511;;6000.00;2500.00;1420.00;90.00;6000.00;2500.00;90.00
+512;;OF6058;1;1;-1
+513;1;1;3;Width;br;600.00;1;1;0;
+513;1;1;4;Height;h;580.00;1;1;1;
+513;1;1;5;Depth;d;325.00;1;1;2;
+513;1;1;40;Hinge;he;1;4;4;0;
+513;1;1;260;Veneering;fin;0;4;4;1;
+513;1;1;146;Handle, door;dhdl;0;5;3;0;
+513;1;1;147;Handle, glass door;dghdl;0;5;3;1;
+513;1;1;148;Handle, drawer;drhdl;0;5;3;2;
+513;1;1;149;Handle, small drawer;sdrhdl;0;5;3;3;
+513;1;1;90;Direction;ret;1;4;4;3;
+513;1;1;265;Panel;pa;0;4;-1;-1;
+513;1;1;991;Panel at veneered sides;paout;0;4;-1;-1;
+513;1;1;1011;Spotlight / type of bottom;spotL;0;4;-1;-1;
+513;1;1;1109;Spotlight, distance from front;spotdist;0.00;1;-1;-1;
+513;1;1;2224;Spotlight / type of top;spotLTop;0;4;-1;-1;
+513;1;1;2225;Spotlight, distance from front at top;spotdistTop;0.00;1;-1;-1;
+513;1;1;1318;Sink cut;scut;0;4;-1;-1;
+513;1;1;1558;Prolongation, rear;proLong;0;4;-1;-1;
+513;1;1;2829;Prolongation, bottom;proLongB;0;4;-1;-1;
+513;1;1;719;Type of cooker top;tcook;0;4;4;7;
+513;1;253;22;Plinth;GsPli;0;5;2;0;
+513;1;253;23;Plinth moulding;GsPliL;0;5;2;1;
+513;1;253;24;Worktop;GsCou;0;5;2;2;
+513;1;253;25;Light screen;GsLiSc;0;5;2;3;
+513;1;253;26;Cornice;GsCor;0;5;2;4;
+513;1;253;27;Ceiling filler;GsCeil;0;5;2;5;
+513;1;253;29;Tiles over worktop;GsTile;0;5;2;7;
+513;1;253;33;Decor moulding;GsDecMould;0;5;2;11;
+513;1;253;161;Covering panel;GsCP;0;5;2;12;
+513;2;b;600.00;
+513;2;h;580.00;
+513;2;t;325.00;
+513;2;Construction_ID;-1.00;
+520;HAECKER;HÄCKER Classic 2018-1 EN Kitchen;Furniture;Classic;HACL8181
+524;ATLAN;ATLAN Atlanta;;2;1.00;1.00;0.00;;;1;ATLAN Atlanta;1;2;0.00;0.00;0.00;1-C;
+525;105;Door combination;C340;C340 Atlanta -Light Acacia Matex-;;;1;1;0;
+525;202;Carcase colour outside;17;17 Basalt Grey;;;1;28;1;
+525;303;Handle/Knock Combination;332;332 Handle 160mm Stainl.Steel Col.;;;1;121;6;
+525;304;Handle/Knock Position;A;A Horizontal / Horizontal;;;1;192;7;
+525;700;Drawer finish;25;25 Nova Pro Modul C;;;1;196;9;
+525;206;VISIBLE Carcase Side Finish;*;* Same as carcase colour;;;1;46;10;
+525;207;Visible carcase side colour;*;* Same as carcase colour;;;1;52;11;
+525;961;Anti-slip-mat;D;D For Swivel Shelves;;;1;234;12;
+525;962;Colour channel handle;*;*;;;1;238;22;
+500;501;0;SO1.10;;1;1;1;Plinth panel;58.17000;dm;;1;0.00;0.00;0.00;0.00;0.00;0.00;0.00;0.00;0.00;0.00;20.0;0.00;0.00;2;2;0.00;0.00;0.00;4;0.00;0.00;0.00;avail;;;;;0.00;0;3;0;;-1;0;0.00;0.00;0.00;0.00;0.00;0;20.00;0;0;6;0;0;0;1;1;0;;8;0.00
+501;;;;;;32770;0;;;
+502;
+505;1;0;;0.00;0.00;0.00;11;Furniture;1;C340 Atlanta -Light Acacia Matex-
+510;0;0;;;;;;;;;;0;0;0
+511;;;;;;;;
+512;;SO1.10;0;0;1
+520;HAECKER;HÄCKER Classic 2018-1 EN Kitchen;Furniture;Plinth;HACL8181
+524;KU;KU synthetic;;1;1.00;1.00;0.00;;;0;KU synthetic;400;97;0.00;0.00;0.00;1;
+525;401;Plinth colour;17;17 Basalt Grey;;;1;2382;15;
+500;450;0;332;;2;1;1;Stainless steel coloured handle;11.00000;pce;;4;0.00;0.00;0.00;0.00;0.00;0.00;0.00;0.00;0.00;0.00;20.0;0.00;0.00;0;3;0.00;0.00;0.00;2;0.00;0.00;0.00;!!!359;;;;;0.00;0;4;0;;-1;0;0.00;0.00;0.00;0.00;0.00;0;20.00;0;0;40;0;0;0;1;1;0;;9;0.00
+501;;;0;0;;32779;0;;;
+502;
+505;1;0;;0.00;0.00;0.00;11;Furniture;0;
+510;53;60;170.00;170.00;;10.00;10.00;;28.00;28.00;;0;0;0
+511;0.00;0.00;0.00;0.00;0.00;;;
+512;;;0;997;0
+513;1;1;3;Width;br;170.00;1;1;0;
+513;1;1;4;Height;h;10.00;1;1;1;
+513;1;1;5;Depth;d;28.00;1;1;2;
+513;1;1;8;Thickness;t;10.00;1;-1;-1;
+513;1;1;324;Full length;fl;0;4;3;7;
+513;1;1;306;Distance from edge;avst;5.00;1;-1;-1;
+513;1;1;1085;Horizontal distance override;horDistOv;-1.00;1;3;11;
+513;1;1;1084;Vertical distance override;vertDistOv;-1.00;1;3;12;
+513;1;1;714;Handle direction;hdlDir;0;4;3;5;
+513;2;b;170.00;
+513;2;h;10.00;
+513;2;t;28.00;
+520;HAECKER;HÄCKER Classic 2018-1 EN Kitchen;Furniture;Classic;HACL8181
+524;ATLAN;ATLAN Atlanta;;2;1.00;1.00;0.00;;;1;ATLAN Atlanta;1;2;0.00;0.00;0.00;1-C;
+525;105;Door combination;C340;C340 Atlanta -Light Acacia Matex-;;;1;1;0;
+525;202;Carcase colour outside;17;17 Basalt Grey;;;1;28;1;
+525;303;Handle/Knock Combination;332;332 Handle 160mm Stainl.Steel Col.;;;1;121;6;
+525;304;Handle/Knock Position;A;A Horizontal / Horizontal;;;1;192;7;
+525;700;Drawer finish;25;25 Nova Pro Modul C;;;1;196;9;
+525;206;VISIBLE Carcase Side Finish;*;* Same as carcase colour;;;1;46;10;
+525;207;Visible carcase side colour;*;* Same as carcase colour;;;1;52;11;
+525;961;Anti-slip-mat;D;D For Swivel Shelves;;;1;234;12;
+525;962;Colour channel handle;*;*;;;1;238;22;
